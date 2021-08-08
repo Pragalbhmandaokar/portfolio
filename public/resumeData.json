@@ -1,0 +1,64 @@
+{
+    "main": {
+        "name": "Pragalbh",
+        "occupation": "Full-Stack Web Developer and Data scientist",
+        "description": "I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+        "image": "profilepic.jpg",
+        "contactmessage": "Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+        "email": "pragalbh.a.mandaokar@gmail.com",
+        "phone": "+91 9834953235",
+        "address": {
+            "city": "",
+            "state": "",
+            "zip": ""
+        },
+        "website": "",
+        "resumedownload": "https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+        "social": [{
+                "name": "twitter",
+                "url": "https://twitter.com/BroodingSpace",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/pragalbh-mandaokar-7867bb16b/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Pragalbhmandaokar",
+                "className": "fa fa-github"
+            },
+
+            {
+                "name": "email",
+                "url": "mailto:Pragalbh.a.mandaokar@gmail.com?subject=The%20subject%20of%20the%20mail",
+                "className": "fa fa-envelope"
+            }
+        ]
+    },
+    "resume": {
+        "education": [{
+            "school": "G.H.Raisoni College of Engineering",
+            "degree": "Computer science",
+            "graduated": "student",
+            "description": "The first year required the study of foundations of mathematics, physics, computer science, computer networks and electronics. The second year required the study of advanced mathematics and physics, and the fundamentals of electronic systems."
+        }],
+        "work": [{
+                "company": "Shop management system",
+                "title": "Software Developer",
+                "years": "Dec 2020 - jan 2021",
+                "description": "Shop management system is used for manage all the transactions and items selling data"
+            },
+            {
+                "company": "OpenLib",
+                "title": "founder",
+                "years": "August 2020 - December 2020",
+                "description": "Built the backend authentication platform for their main website and managing the complete project with team of four"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": []
+    }
+}
